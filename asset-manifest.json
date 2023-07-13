@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6052cded.css",
+    "main.js": "/static/js/main.7ffa3bce.js",
+    "static/media/dinesh-bg.jpg": "/static/media/dinesh-bg.ee35728434be7c12e012.jpg",
+    "static/media/Dinesh Resume.docx": "/static/media/Dinesh Resume.336064e0dd1c09a337e4.docx",
+    "static/media/portfolio.png": "/static/media/portfolio.d4392944c693fb80f896.png",
+    "index.html": "/index.html",
+    "main.6052cded.css.map": "/static/css/main.6052cded.css.map",
+    "main.7ffa3bce.js.map": "/static/js/main.7ffa3bce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6052cded.css",
+    "static/js/main.7ffa3bce.js"
+  ]
+}
